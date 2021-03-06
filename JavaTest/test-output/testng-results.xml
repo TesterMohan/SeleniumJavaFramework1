@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="20591" started-at="2021-02-23T22:50:53 IST" finished-at="2021-02-23T22:51:13 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="20591" started-at="2021-02-23T22:50:53 IST" finished-at="2021-02-23T22:51:13 IST">
+      <class name="com.mindtree.testing.TestNG_Demo">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.mindtree.testing.TestNG_Demo@7a187f14]" name="setUpTest" is-config="true" duration-ms="3115" started-at="2021-02-23T22:50:53 IST" finished-at="2021-02-23T22:50:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:com.mindtree.testing.TestNG_Demo@7a187f14]" name="googleSearch" duration-ms="7093" started-at="2021-02-23T22:50:58 IST" finished-at="2021-02-23T22:51:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.mindtree.testing.TestNG_Demo@7a187f14]" name="tearDownTest" is-config="true" duration-ms="4176" started-at="2021-02-23T22:51:05 IST" finished-at="2021-02-23T22:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.mindtree.testing.TestNG_Demo -->
+      <class name="com.mindtree.testing.TestNG_Demo2">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.mindtree.testing.TestNG_Demo2@6f195bc3]" name="setUpTest" is-config="true" duration-ms="1761" started-at="2021-02-23T22:50:56 IST" finished-at="2021-02-23T22:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="googleSearch2()[pri:0, instance:com.mindtree.testing.TestNG_Demo2@6f195bc3]" name="googleSearch2" duration-ms="7342" started-at="2021-02-23T22:50:58 IST" finished-at="2021-02-23T22:51:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch2 -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.mindtree.testing.TestNG_Demo2@6f195bc3]" name="tearDownTest" is-config="true" duration-ms="4132" started-at="2021-02-23T22:51:09 IST" finished-at="2021-02-23T22:51:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.mindtree.testing.TestNG_Demo2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
